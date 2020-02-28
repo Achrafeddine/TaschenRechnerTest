@@ -1,0 +1,6 @@
+C:\Users\Besitzer\Desktop\Visual Studio Kurs\Myproject\Lernen\Lernen\bin\Debug\Lernen.exe.config
+C:\Users\Besitzer\Desktop\Visual Studio Kurs\Myproject\Lernen\Lernen\bin\Debug\Lernen.exe
+C:\Users\Besitzer\Desktop\Visual Studio Kurs\Myproject\Lernen\Lernen\bin\Debug\Lernen.pdb
+C:\Users\Besitzer\Desktop\Visual Studio Kurs\Myproject\Lernen\Lernen\obj\Debug\Lernen.csprojAssemblyReference.cache
+C:\Users\Besitzer\Desktop\Visual Studio Kurs\Myproject\Lernen\Lernen\obj\Debug\Lernen.exe
+C:\Users\Besitzer\Desktop\Visual Studio Kurs\Myproject\Lernen\Lernen\obj\Debug\Lernen.pdb
